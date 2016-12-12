@@ -1,0 +1,8 @@
+rem start spispectrumplay.exe testwav.wav 10 200 200 0 "audiospispectrumclass" "audiospispectrum title" "begin - copy.ahk" "end - copy.ahk" 100 1920 1080 150 0 0 0 0 0 255 255 0 255
+rem start spispectrumplay.exe "D:\oifii-org\httpdocs\ha-org\had\dj-oifii\house_wav\dj-oifii_heavyhouse(Shivers-Armin van Buuren)_007.wav" 3600 1 1 0 "audiospispectrumclass" "audiospispectrum title" "begin - copy.ahk" "end - copy.ahk" 100 1920 1080 150 0 0 0 0 0 255 255 0 255
+rem start spispectrumplay.exe testwav.wav -1 0 0 4 "audiospispectrumclass" "audiospispectrum title" "" "" 100 1920 1080 150 0 0 0 0 0 255 255 0 255
+rem start spispectrumplay.exe "C:\Users\do-org\Downloads\dj-oifii_heavyhouse(Shivers-Armin van Buuren)_007.mp3" -1 0 0 4 "audiospispectrumclass" "audiospispectrum title" "" "" 100 1920 1080 150 0 0 0 0 0 255 255 0 255
+rem start spispectrumplay.exe "C:\Users\do-org\Downloads\dj-oifii_trance-euphoric-uplifting_2015feb06.wav" -1 0 0 4 "audiospispectrumclass" "audiospispectrum title" "" "" 100 1920 1080 150 0 0 0 0 0 255 255 0 255
+rem start spispectrumplay.exe "C:\Users\do-org\Downloads\dj-oifii_trance-euphoric-uplifting_2015feb06.wav" -1 0 0 4 "audiospispectrumclass" "audiospispectrum title" "" "" 100 960 540 150 0 0 0 0 0 255 255 0 255
+rem start spispectrumplay.exe "C:\Users\do-org\Downloads\Underworld - Rowla - ambient bass fuzz - 13 sec - loopable(127BPM)(normailized).wav" -1 0 0 4 "audiospispectrumclass" "audiospispectrum title" "" "" 100 400 200 150 0 0 0 0 0 255 255 0 255
+start spispectrumplay.exe "C:\Users\do-org\Downloads\Underworld - Rowla - ambient bass fuzz - 13 sec - loopable(127BPM)(normailized).wav" 600 0 0 4 "audiospispectrumclass" "audiospispectrum title" "" "" 100 400 200 150 0 0 0 0 0 255 255 0 255
